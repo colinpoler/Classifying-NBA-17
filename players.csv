@@ -1,0 +1,456 @@
+team,name,position,height,weight,age,games played,efg,efg plus
+Atlanta Hawks,Dennis Schroder,PG,6-1,172,23,34,0.493,-2.2736458333332195
+Atlanta Hawks,Kyle Korver,SG,6-7,212,35,112,0.621,10.761433447098952
+Atlanta Hawks,Kent Bazemore,SF,6-5,201,27,41,0.473,-3.8147843942505375
+Atlanta Hawks,Paul Millsap,PF,6-8,246,31,87,0.481,-3.412637362637234
+Atlanta Hawks,Dwight Howard,C,6-11,265,31,95,0.633,10.667192982456214
+Atlanta Hawks,Malcolm Delaney,PG,6-3,190,27,1,0.407,-10.052698412698433
+Atlanta Hawks,Thabo Sefolosha,SG,6-7,220,32,92,0.492,-1.8256809338521762
+Atlanta Hawks,Taurean Prince,SF,6-8,220,22,6,0.458,-6.124170616113759
+Atlanta Hawks,Kris Humphries,PF,,,,22,0.451,-4.248538011695899
+Atlanta Hawks,Tiago Splitter,C,,,,65,0.484,-2.3062499999999915
+Atlanta Hawks,Tim Hardaway Jr,SG,,,,15,0.537,2.289792387543251
+Atlanta Hawks,DeAndre' Bembry,SF,6-6,210,22,57,0.485,-2.6742424242424008
+Atlanta Hawks,Mike Scott,PF,6-8,237,28,36,0.25,-26.320454545454552
+Atlanta Hawks,Mike Muscala,C,6-11,240,25,27,0.573,5.454106280193194
+Atlanta Hawks,Walter Tavares,C,,,,78,0.8,nan
+Boston Celtics,Isaiah Thomas,PG,5-9,185,28,25,0.546,2.553245033112667
+Boston Celtics,Avery Bradley,SG,6-2,180,26,39,0.533,1.9648881239242613
+Boston Celtics,Jae Crowder,SF,6-6,235,26,38,0.572,5.265784114052913
+Boston Celtics,Amir Johnson,PF,6-9,240,29,46,0.612,10.168468468468419
+Boston Celtics,Al Horford,C,6-10,245,30,96,0.527,1.0251412429379272
+Boston Celtics,Marcus Smart,PG,6-4,220,22,28,0.422,-8.961440677966038
+Boston Celtics,Gerald Green,SG,6-7,205,31,43,0.494,-0.17884615384615898
+Boston Celtics,Jaylen Brown,SF,6-7,225,20,21,0.508,-1.4161512027491625
+Boston Celtics,Jonas Jerebko,PF,6-10,231,29,25,0.521,1.5360730593607315
+Boston Celtics,Kelly Olynyk,C,7-0,245,25,30,0.357,-16.075490196078405
+Boston Celtics,Terry Rozier,PG,6-2,190,22,26,0.437,-7.807565789473728
+Boston Celtics,James Young,SG,6-6,215,21,13,0.534,4.2974358974359035
+Boston Celtics,Jordan Mickey,PF,6-8,235,22,4,0.441,-7.549019607843157
+Boston Celtics,Tyler Zeller,C,7-0,250,27,22,0.494,-3.2720720720720777
+Boston Celtics,Demetrius Jackson,PG,6-1,201,22,72,0.372,-14.54642857142857
+Brooklyn Nets,Jeremy Lin,PG,6-3,200,28,17,0.51,-0.8833819241982965
+Brooklyn Nets,Randy Foye,SG,,,,27,0.466,-3.280487804878092
+Brooklyn Nets,Bojan Bogdanovic,SF,6-8,230,27,22,0.53,1.6982490272373667
+Brooklyn Nets,Trevor Booker,PF,6-8,228,29,12,0.537,2.5491596638655665
+Brooklyn Nets,Brook Lopez,C,7-0,268,28,13,0.531,1.9932692307692434
+Brooklyn Nets,Greivis Vasquez,PG,,,,24,0.313,-20.68181818181819
+Brooklyn Nets,Sean Kilpatrick,SG,6-4,212,27,85,0.486,-2.3370370370369926
+Brooklyn Nets,Rondae Hollis-Jefferson,SF,6-7,214,22,21,0.447,-8.127659574468069
+Brooklyn Nets,Luis Scola,PF,,,,48,0.526,1.925688073394511
+Brooklyn Nets,Justin Hamilton,C,,,,130,0.5,-0.6113122171945804
+Brooklyn Nets,Isaiah Whitehead,PG,6-4,213,21,25,0.445,-6.940435835351032
+Brooklyn Nets,Caris LeVert,SG,6-7,203,22,0,0.528,0.6934210526315923
+Brooklyn Nets,Chris McCullough,PF,6-9,215,22,79,0.516,-1.45000000000001
+Brooklyn Nets,Joe Harris,SG,6-6,219,25,6,0.2,-31.382513661202196
+Brooklyn Nets,Anthony Bennett,PF,,,,8,0.625,10.751282051282047
+Charlotte Hornets,Kemba Walker,PG,6-1,184,26,11,0.527,1.810960144927705
+Charlotte Hornets,Nicolas Batum,SG,6-8,200,28,39,0.472,-3.367014341590611
+Charlotte Hornets,Michael Kidd-Gilchrist,SF,6-7,232,23,4,0.478,-2.393135011441686
+Charlotte Hornets,Marvin Williams,PF,6-9,237,30,49,0.457,-5.651288659793821
+Charlotte Hornets,Cody Zeller,C,7-0,240,24,11,0.571,6.952816901408376
+Charlotte Hornets,Ramon Sessions,PG,,,,22,0.42,-8.899190283400827
+Charlotte Hornets,Marco Belinelli,SG,6-5,210,30,52,0.512,0.12774566473986937
+Charlotte Hornets,Jeremy Lamb,SF,6-5,185,24,14,0.502,-0.06583072100315945
+Charlotte Hornets,Frank Kaminsky,PF,7-0,242,23,7,0.471,-3.0877378435517855
+Charlotte Hornets,Roy Hibbert,C,,,,54,0.544,5.160629921259833
+Charlotte Hornets,Brian Roberts,PG,,,,10,0.447,-7.11376146788988
+Charlotte Hornets,Aaron Harrsion,SG,,,,75,0.0,nan
+Charlotte Hornets,Treveon Graham,SF,6-5,219,23,12,0.588,7.986956521739117
+Charlotte Hornets,Christian Wood,PF,,,,5,0.522,4.804545454545455
+Charlotte Hornets,Spencer Hawes,C,,,,34,0.529,1.9364444444444828
+Chicago Bulls,Rajon Rondo,PG,6-1,186,30,100,0.453,-6.12961832061071
+Chicago Bulls,Dwyane Wade,SG,6-4,220,35,176,0.457,-6.06897959183663
+Chicago Bulls,Jimmy Butler,SF,6-8,236,27,41,0.492,-1.6736040609136538
+Chicago Bulls,Nikola Mirotic,PF,6-10,238,25,21,0.516,-0.5383495145631088
+Chicago Bulls,Robin Lopez,C,7-0,277,28,28,0.493,-1.4343980343980434
+Chicago Bulls,Michael Carter-Williams,PG,6-6,190,25,11,0.391,-12.174531835205997
+Chicago Bulls,Denzel Valentine,SG,6-6,214,23,4,0.481,-3.9647959183673933
+Chicago Bulls,Doug McDermott,SF,6-8,219,25,8,0.524,2.593726937269338
+Chicago Bulls,Taj Gibson,PF,6-9,235,31,64,0.517,1.2624754420432325
+Chicago Bulls,Cristiano Felicio,C,6-9,280,24,6,0.579,7.595624999999998
+Chicago Bulls,Jerian Grant,PG,6-4,198,24,5,0.507,-1.2594795539033754
+Chicago Bulls,Paul Zipser,SF,6-8,226,22,6,0.473,-4.302906976744211
+Chicago Bulls,Bobby Portis,PF,6-11,248,21,6,0.531,1.139669421487561
+Chicago Bulls,Isaiah Canaan,PG,,,,3,0.436,-7.462307692307689
+Cleveland Cavaliers,Kyrie Irving,PG,6-3,193,24,52,0.535,1.58983855650537
+Cleveland Cavaliers,JR Smith,SG,,,,111,0.479,-2.7353982300885207
+Cleveland Cavaliers,LeBron James,SF,6-8,250,32,220,0.594,7.424388435878477
+Cleveland Cavaliers,Kevin Love,PF,6-10,251,28,45,0.51,-1.2076448828606061
+Cleveland Cavaliers,Tristan Thompson,C,6-9,238,25,60,0.6,8.319354838709678
+Cleveland Cavaliers,Kay Felder,PG,5-9,176,21,0,0.415,-11.526050420168076
+Cleveland Cavaliers,Iman Shumpert,SG,6-5,220,26,71,0.507,-1.2483290488432104
+Cleveland Cavaliers,Richard Jefferson,SF,6-7,233,36,140,0.536,2.439792387543207
+Cleveland Cavaliers,Channing Frye,PF,6-11,255,33,49,0.589,6.840105540897078
+Cleveland Cavaliers,Chris Andersen,C,,,,73,0.409,-8.767741935483855
+Cleveland Cavaliers,Mo Williams,PG,,,,62,nan,nan
+Cleveland Cavaliers,Jordan McRae,SG,,,,2,0.447,-5.436111111111096
+Cleveland Cavaliers,Mike Dunleavy,SF,6-9,230,36,32,0.543,3.3659574468085225
+Cleveland Cavaliers,DeAndre Liggins,SG,6-6,209,28,9,0.447,-7.6374999999999815
+Cleveland Cavaliers,James Jones,SF,,,,148,0.647,10.702469135802495
+Cleveland Cavaliers,RJ Hunter,PF,6-5,185,23,5,0.0,nan
+Dallas Mavericks,Deron Williams,PG,,,,90,0.509,0.6388581952117747
+Dallas Mavericks,Wesley Matthews,SG,6-5,220,30,32,0.496,-1.3482692307692048
+Dallas Mavericks,Harrison Barnes,SF,6-8,225,24,64,0.498,-0.2490291262135429
+Dallas Mavericks,Dirk Nowitzki,PF,7-0,245,38,145,0.495,-1.4572625698324018
+Dallas Mavericks,Andrew Bogut,C,,,,58,0.469,-3.4295238095238147
+Dallas Mavericks,JJ Barea,PG,,,,49,0.558,5.4876984126983785
+Dallas Mavericks,Seth Curry,SG,6-2,185,26,75,0.578,6.8910224438903285
+Dallas Mavericks,Justin Anderson,SF,6-6,230,23,8,0.49,-1.9955056179775497
+Dallas Mavericks,Dwight Powell,PF,6-11,240,25,6,0.542,2.468421052631534
+Dallas Mavericks,Salah Mejri,C,7-2,235,30,4,0.646,14.448672566371684
+Dallas Mavericks,Devin Harris,PG,6-3,185,33,64,0.484,-2.9696356275304368
+Dallas Mavericks,Nicolas Brussino,SG,,,,39,0.472,-4.586046511627892
+Dallas Mavericks,Dorian Finney-Smith,SF,6-8,220,23,24,0.456,-4.74824120603018
+Dallas Mavericks,Quincy Acy,PF,6-7,240,26,29,0.521,2.0728971962616853
+Dallas Mavericks,AJ Hammons,C,,,,9,0.464,-8.033333333333324
+Dallas Mavericks,Yogi Ferrell,PG,6-0,180,23,34,0.492,-1.4786713286713749
+Denver Nuggets,Emmanuel Mudiay,PG,6-5,200,20,0,0.428,-9.824561403508824
+Denver Nuggets,Gary Harris,SG,6-4,210,22,4,0.386,-11.909030100334483
+Denver Nuggets,Danilo Gallinari,SF,6-10,225,28,12,0.531,1.5741482965931795
+Denver Nuggets,Kenneth Faried,PF,6-8,228,27,12,0.548,1.9018382352940648
+Denver Nuggets,Nikola Jokic,C,6-10,250,21,21,0.605,8.968153655514314
+Denver Nuggets,Jamal Murray,PG,6-4,207,19,52,0.483,-3.1726840855107383
+Denver Nuggets,Will Barton,SG,6-6,190,26,7,0.508,-1.3671641791044848
+Denver Nuggets,Wilson Chandler,SF,6-9,225,29,11,0.52,0.5684474123539758
+Denver Nuggets,Darrell Arthur,PF,6-9,235,28,28,0.565,5.789051094890489
+Denver Nuggets,Jusuf Nurkic,C,7-0,280,22,5,0.507,-0.8178571428571288
+Denver Nuggets,Jameer Nelson,PG,6-0,190,35,44,0.531,0.7362035225049439
+Denver Nuggets,Malik Beasley,SG,6-5,196,20,25,0.514,4.23125000000001
+Denver Nuggets,Juan Hernangomez,PF,6-9,230,21,18,0.533,nan
+Denver Nuggets,Jarnell Stokes,C,,,,1,1.0,nan
+Denver Nuggets,Mike Miller,SG,,,,94,0.565,6.494117647058829
+Denver Nuggets,Alonzo Gee,SG,6-6,220,29,1,0.214,-33.74666666666666
+Detroit Pistons,Reggie Jackson,PG,6-3,208,26,34,0.468,-3.3254266211604104
+Detroit Pistons,Kentavious Caldwell-Pope,SG,6-5,205,23,4,0.481,-1.2455696202530788
+Detroit Pistons,Tobias Harris,SF,6-9,235,24,4,0.532,3.3807628524046436
+Detroit Pistons,Marcus Morris,PF,6-9,235,27,8,0.477,-2.9980322003577555
+Detroit Pistons,Andre Drummond,C,6-11,279,23,4,0.531,3.2227272727273544
+Detroit Pistons,Ish Smith,PG,6-0,175,28,10,0.458,-4.710463576158816
+Detroit Pistons,Reggie Bullock,SG,6-7,205,25,4,0.531,0.37746478873242495
+Detroit Pistons,Stanley Johnson,SF,6-7,245,20,4,0.415,-7.282509505703402
+Detroit Pistons,Jon Leuer,PF,6-10,228,27,12,0.518,2.0451530612244966
+Detroit Pistons,Aron Baynes,C,6-10,260,30,30,0.513,1.771052631578911
+Detroit Pistons,Beno Udrih,PG,,,,53,0.495,1.6167441860465104
+Detroit Pistons,Michael Gbinije,SG,,,,179,0.1,nan
+Detroit Pistons,Darrun Hilliard,SF,6-6,220,23,0,0.421,-5.113636363636353
+Detroit Pistons,Henry Ellenson,PF,6-11,245,20,72,0.438,-9.755882352941171
+Detroit Pistons,Boban Marjanovic,C,7-3,290,28,7,0.545,2.7206349206349074
+Golden State Warriors,Stephen Curry,PG,6-3,190,28,75,0.58,6.2548214285715105
+Golden State Warriors,Klay Thompson,SG,6-7,215,27,85,0.565,3.7357784431138086
+Golden State Warriors,Kevin Durant,SF,6-9,240,28,110,0.594,7.9612862547290035
+Golden State Warriors,Draymond Green,PF,6-7,230,26,84,0.481,-4.395591647331692
+Golden State Warriors,Zaza Pachulia,C,6-11,270,32,66,0.534,-0.09376770538240464
+Golden State Warriors,Shaun Livingston,PG,6-7,192,31,87,0.549,3.483157894736877
+Golden State Warriors,Patrick McCaw,SG,6-7,185,21,15,0.516,-1.4563535911602727
+Golden State Warriors,Andre Iguodala,SF,6-6,215,33,113,0.605,6.979277108433742
+Golden State Warriors,David West,PF,6-9,250,36,104,0.542,2.6874999999999645
+Golden State Warriors,Anderson Varejao,C,,,,88,0.357,-16.113043478260877
+Golden State Warriors,Ian Clark,PG,6-3,175,25,36,0.558,4.051260504201672
+Golden State Warriors,James McAdoo,PF,,,,26,0.538,2.744736842105276
+Golden State Warriors,JaVale McGee,C,7-0,270,29,35,0.652,10.897409326424885
+Golden State Warriors,Kevon Looney,PF,6-9,220,21,4,0.533,3.0047058823529653
+Golden State Warriors,Damian Jones,C,7-0,245,21,7,0.5,1.904761904761905
+Houston Rockets,Patrick Beverley,PG,6-1,185,28,28,0.521,-0.8011385199240664
+Houston Rockets,James Harden,SG,6-5,220,27,91,0.525,-0.6988283538370723
+Houston Rockets,Trevor Ariza,SF,6-8,215,31,88,0.528,-1.7284090909090537
+Houston Rockets,Ryan Anderson,PF,6-10,240,28,36,0.55,1.5729292929292527
+Houston Rockets,Clint Capela,C,6-10,240,22,36,0.643,11.15462184873953
+Houston Rockets,Tyler Ennis,PG,6-3,194,22,1,0.498,-1.1880239520958114
+Houston Rockets,Eric Gordon,SG,6-4,215,28,18,0.527,-0.1834123222748758
+Houston Rockets,Corey Brewer,SF,6-9,186,30,44,0.461,-7.128500000000031
+Houston Rockets,Montrezl Harrell,PF,6-8,240,23,7,0.654,11.872826086956515
+Houston Rockets,Nene,C,6-11,250,34,76,0.621,8.419727891156413
+Houston Rockets,Bobby Brown,PG,,,,5,0.5,-6.3121212121212125
+Houston Rockets,KJ McDaniels,SG,,,,4,0.515,-1.5690476190476303
+Houston Rockets,Sam Dekker,SF,6-9,230,22,4,0.543,1.6462809917355443
+Houston Rockets,Kyle Wiltjer,PF,,,,1,0.429,-12.674999999999997
+Houston Rockets,Chinanu Onuaku,C,6-10,245,20,1,0.714,16.266666666666644
+Houston Rockets,Okaro White,SG,6-8,215,24,80,0.448,-4.5112676056337975
+Indiana Pacers,Jeff Teague,PG,6-2,189,28,69,0.492,-2.3655622489958716
+Indiana Pacers,Monta Ellis,SG,,,,38,0.482,-3.3567901234567756
+Indiana Pacers,Paul George,SF,6-9,220,26,68,0.534,2.463019693654388
+Indiana Pacers,Thaddeus Young,PF,6-8,230,28,43,0.56,5.458312020460369
+Indiana Pacers,Myles Turner,C,6-11,255,20,14,0.534,2.952529182879367
+Indiana Pacers,Aaron Brooks,PG,6-0,161,32,39,0.483,-3.1474747474747815
+Indiana Pacers,Rodney Stuckey,SG,,,,28,0.412,-9.230270270270275
+Indiana Pacers,CJ Miles,SF,6-6,225,29,38,0.565,5.7925925925925625
+Indiana Pacers,Lavoy Allen,PF,,,,25,0.458,-4.043119266055065
+Indiana Pacers,Al Jefferson,C,6-10,280,32,21,0.499,-0.7181451612903444
+Indiana Pacers,Joe Young,PG,6-2,185,24,4,0.396,-13.737499999999997
+Indiana Pacers,Glenn Robinson III,SF,6-7,215,23,8,0.55,2.9243654822334832
+Indiana Pacers,Georges Niang,PF,6-6,231,23,0,0.264,-21.661904761904754
+Indiana Pacers,Kevin Seraphin,C,,,,14,0.551,4.7218487394957975
+Indiana Pacers,Rakeem Christmas,C,,,,0,0.442,-3.1416666666666657
+Los Angeles Clippers,Chris Paul,PG,6-0,175,31,79,0.555,4.9542857142857954
+Los Angeles Clippers,JJ Reddick,SG,,,,92,nan,nan
+Los Angeles Clippers,Luc Mbah a Moute,SF,6-8,230,30,23,0.562,4.669803921568615
+Los Angeles Clippers,Blake Griffin,PF,6-10,251,27,51,0.513,0.46955958549236954
+Los Angeles Clippers,DeAndre Jordan,C,6-11,265,28,57,0.714,19.119661733615168
+Los Angeles Clippers,Austin Rivers,PG,6-4,200,24,23,0.518,1.1254789272030266
+Los Angeles Clippers,Jamal Crawford,SG,6-5,185,36,72,0.479,-3.1983818770226335
+Los Angeles Clippers,Wesley Johnson,SF,6-7,215,29,9,0.438,-5.323931623931607
+Los Angeles Clippers,Brandon Bass,PF,,,,59,0.578,4.239795918367356
+Los Angeles Clippers,Marreese Speights,C,6-10,255,29,60,0.539,2.5659824046920505
+Los Angeles Clippers,Raymond Felton,PG,6-1,205,32,39,0.475,-4.636084905660397
+Los Angeles Clippers,Alan Anderson,SG,,,,18,0.463,-5.838095238095228
+Los Angeles Clippers,Paul Pierce,SF,,,,170,0.507,2.135294117647078
+Los Angeles Clippers,Brice Johnson,PF,6-10,230,22,54,0.286,nan
+Los Angeles Clippers,Diamond Stone,C,,,,4,0.231,nan
+Los Angeles Lakers,D'Angelo Russell,PG,6-5,195,20,90,0.483,-3.17009646302251
+Los Angeles Lakers,Jordan Clarkson,SG,6-5,194,24,3,0.5,-0.863552833078117
+Los Angeles Lakers,Luol Deng,SF,6-9,220,31,62,0.447,-6.976612903225821
+Los Angeles Lakers,Julius Randle,PF,6-9,250,22,141,0.499,-2.052288488210827
+Los Angeles Lakers,Timofey Mozgov,C,7-1,275,30,40,0.515,1.3736607142856911
+Los Angeles Lakers,Jose Calderon,PG,6-3,200,35,26,0.485,-3.1318840579710354
+Los Angeles Lakers,Lou Williams,SG,6-1,175,30,52,0.511,0.11797468354435381
+Los Angeles Lakers,Brandon Ingram,SF,6-9,190,19,15,0.442,-6.609251101321576
+Los Angeles Lakers,Larry Nance Jr,PF,,,,3,0.25,-25.98070175438597
+Los Angeles Lakers,Tarik Black,C,6-9,250,25,1,0.512,0.8538071065989925
+Los Angeles Lakers,Marcelo Huertas,PG,,,,0,0.397,-15.90983606557377
+Los Angeles Lakers,Nick Young,SG,6-7,210,31,19,0.564,5.535055350553456
+Los Angeles Lakers,Metta World Peace,SF,,,,85,0.346,-15.783333333333324
+Los Angeles Lakers,Thomas Robinson,PF,,,,11,0.536,1.5335766423357668
+Los Angeles Lakers,Ivica Zubac,C,7-1,240,19,0,0.529,3.444966442952982
+Memphis Grizzlies,Mike Conley,PG,6-1,175,29,56,0.545,2.5717223650386956
+Memphis Grizzlies,Tony Allen,SG,6-4,213,35,112,0.473,-4.54386503067488
+Memphis Grizzlies,Chandler Parsons,SF,6-10,230,28,13,0.394,-12.121008403361358
+Memphis Grizzlies,JaMychal Green,PF,6-9,227,26,15,0.555,4.9532738095238
+Memphis Grizzlies,Marc Gasol,C,7-1,255,32,59,0.503,-1.6581542351453535
+Memphis Grizzlies,Wade Baldwin,PG,,,,7,0.326,-20.075454545454512
+Memphis Grizzlies,Troy Daniels,SG,6-4,205,25,14,0.513,-1.0660377358491004
+Memphis Grizzlies,Vince Carter,SF,6-6,220,40,88,0.508,-0.7755555555556057
+Memphis Grizzlies,Zach Randolph,PF,6-9,250,35,70,0.46,-5.999641577060871
+Memphis Grizzlies,Brandan Wright,C,6-10,235,29,12,0.615,10.226666666666674
+Memphis Grizzlies,Andrew Harrison,PG,6-6,213,22,6,0.385,-12.521345029239797
+Memphis Grizzlies,James Ennis,SF,,,,6,0.534,1.644827586206894
+Memphis Grizzlies,Jarell Martin,PF,6-10,239,22,5,0.414,-9.904385964912265
+Memphis Grizzlies,Deyonta Davis,C,6-11,237,20,3,0.511,0.9314285714285688
+Memphis Grizzlies,Troy Williams,SF,6-7,218,22,5,0.491,-2.6462264150943398
+Miami Heat,Goran Dragic,PG,6-3,190,30,34,0.527,1.3593103448276551
+Miami Heat,Tyler Johnson,SG,6-4,190,24,9,0.49,-2.2666030534351194
+Miami Heat,Justise Winslow,SF,6-7,225,20,17,0.371,-13.306060606060626
+Miami Heat,Josh McRoberts,PF,6-10,240,29,25,0.428,-8.105882352941187
+Miami Heat,Hassan Whiteside,C,7-0,265,27,14,0.557,4.940610687022868
+Miami Heat,Josh Richardson,PG,6-6,200,23,18,0.467,-3.758479532163747
+Miami Heat,Dion Waiters,SG,6-4,215,25,18,0.488,-2.638442822384505
+Miami Heat,Derrick Williams,SF,,,,8,0.504,-2.511176470588275
+Miami Heat,Luke Babbitt,PF,6-9,225,27,2,0.557,4.792771084337339
+Miami Heat,Willie Reed,C,,,,78,0.57,4.780588235294118
+Miami Heat,Wayne Ellington,SG,6-5,200,29,6,0.491,-1.9821576763485425
+Miami Heat,James Johnson,SF,6-8,240,29,23,0.535,2.9826513911620367
+Miami Heat,Chris Bosh,PF,,,,89,nan,nan
+Miami Heat,Udonis Haslem,C,6-8,235,36,147,0.478,-0.17692307692307452
+Miami Heat,Rodney McGruder,SG,6-4,200,25,3,0.492,-1.502564102564115
+Milwaukee Bucks,Matthew Dellavedova,PG,6-4,198,26,49,0.463,-6.595410628019316
+Milwaukee Bucks,Tony Snell,SG,6-7,221,25,26,0.588,7.66113074204943
+Milwaukee Bucks,Giannis Antetokounmpo,SF,6-11,222,22,16,0.541,2.063582089552341
+Milwaukee Bucks,Jabari Parker,PF,6-8,250,21,4,0.53,0.21626506024097836
+Milwaukee Bucks,Miles Plumlee,C,6-11,249,28,1,0.478,-5.769014084507049
+Milwaukee Bucks,Malcolm Brogdon,PG,6-5,215,24,10,0.518,-0.44271457085826427
+Milwaukee Bucks,Jason Terry,SG,6-2,185,39,123,0.582,6.97169811320753
+Milwaukee Bucks,Michael Beasley,SF,6-9,235,28,25,0.554,3.0455223880597018
+Milwaukee Bucks,Mirza Teletovic,PF,6-9,242,31,19,0.498,-3.0336322869955055
+Milwaukee Bucks,Greg Monroe,C,6-11,265,26,10,0.533,0.35296367112810145
+Milwaukee Bucks,Khris Middleton,SG,6-8,234,25,16,0.518,0.27807308970096756
+Milwaukee Bucks,Rashad Vaughn,SF,6-6,202,20,3,0.449,-7.584810126582248
+Milwaukee Bucks,Thon Maker,PF,7-1,223,19,9,0.536,1.750000000000007
+Milwaukee Bucks,John Henson,C,6-11,229,26,14,0.515,-0.7055555555555415
+Milwaukee Bucks,Steve Novak,PF,,,,22,0.357,nan
+Minnesota Timberwolves,Ricky Rubio,PG,6-4,190,26,3,0.448,-7.362566137566084
+Minnesota Timberwolves,Zach LaVine,SG,6-5,185,21,70,0.544,3.507734806629827
+Minnesota Timberwolves,Andrew Wiggins,SF,6-8,202,21,3,0.484,-3.7103311258277714
+Minnesota Timberwolves,Gorgui Dieng,PF,6-11,251,27,3,0.514,-0.9184782608695841
+Minnesota Timberwolves,Karl-Anthony Towns,C,7-0,248,21,3,0.576,5.919867549668979
+Minnesota Timberwolves,Kris Dunn,PG,6-4,210,22,22,0.411,-10.027622377622407
+Minnesota Timberwolves,Brandon Rush,SG,,,,22,0.492,-3.7666666666666657
+Minnesota Timberwolves,Shabazz Muhammad,SF,6-6,221,24,2,0.523,0.6739299610894633
+Minnesota Timberwolves,Nemanja Bjelica,PF,6-10,230,28,3,0.503,-2.2404761904762296
+Minnesota Timberwolves,Cole Aldrich,C,6-11,253,28,11,0.337,-18.931132075471695
+Minnesota Timberwolves,Tyus Jones,PG,6-2,184,20,3,0.486,-3.899418604651146
+Minnesota Timberwolves,Jordan Hill,PF,,,,20,0.385,nan
+Minnesota Timberwolves,Nikola Pekovic,C,,,,21,nan,nan
+Minnesota Timberwolves,John Lucas III,PG,,,,7,0.25,nan
+Minnesota Timberwolves,Adreian Payne,PF,,,,1,0.454,-6.1185185185185205
+New Orleans Pelicans,Jrue Holiday,PG,6-4,205,26,25,0.51,-0.5340136054421194
+New Orleans Pelicans,E'Twaun Moore,SG,6-4,191,27,16,0.519,0.9082386363636274
+New Orleans Pelicans,Solomon Hill,SF,6-7,225,25,12,0.481,-2.264566929133892
+New Orleans Pelicans,Anthony Davis,PF,6-10,253,23,8,0.518,0.3270952927670905
+New Orleans Pelicans,Omer Asik,C,7-0,255,30,37,0.477,-5.527500000000025
+New Orleans Pelicans,Langston Galloway,PG,6-2,200,25,0,0.49,-1.9799256505576395
+New Orleans Pelicans,Buddy Hield,SG,6-4,214,23,14,0.523,0.2631111111111295
+New Orleans Pelicans,Quincy Pondexter,SF,6-7,225,29,29,nan,nan
+New Orleans Pelicans,Terrence Jones,PF,6-9,255,25,25,0.489,-0.5846689895470547
+New Orleans Pelicans,Alexis Ajinca,C,7-2,248,28,3,0.5,-0.0835937500000199
+New Orleans Pelicans,Tim Frazier,PG,6-1,170,26,4,0.453,-7.500202429149759
+New Orleans Pelicans,Tyreke Evans,SG,6-6,220,27,4,0.462,-4.792207792207805
+New Orleans Pelicans,Dante Cunningham,PF,6-8,230,29,16,0.584,6.232183908045954
+New Orleans Pelicans,Cheick Diallo,C,6-9,220,20,3,0.474,-5.094285714285718
+New Orleans Pelicans,Lance Stephenson,SG,6-6,230,26,53,0.475,-2.413533834586474
+New York Knicks,Derrick Rose,PG,6-3,190,28,44,0.477,-4.707528409090791
+New York Knicks,Courtney Lee,SG,6-5,200,31,50,0.533,1.7827868852458764
+New York Knicks,Carmelo Anthony,SF,6-8,240,32,69,0.488,-3.3390344827586063
+New York Knicks,Kristaps Porzingis,PF,7-3,240,21,0,0.507,0.1302231237322502
+New York Knicks,Joakim Noah,C,6-11,230,31,60,0.49,-2.8324675324675397
+New York Knicks,Brandon Jennings,PG,6-1,170,27,25,0.433,-8.427551020408224
+New York Knicks,Justin Holiday,SG,6-6,185,27,5,0.523,0.5058577405857818
+New York Knicks,Lance Thomas,SF,6-8,235,28,25,0.475,-5.8956834532374245
+New York Knicks,Kyle O'Quinn,PF,6-10,250,26,56,0.523,0.45017793594303157
+New York Knicks,Guillermo Hernangomez,C,6-11,240,22,0,nan,nan
+New York Knicks,Ron Baker,PG,6-4,220,23,16,0.431,-9.144318181818214
+New York Knicks,Sasha Vujacic,SG,,,,65,0.393,-12.355555555555554
+New York Knicks,Mindaugas Kuzminskas,SF,,,,0,0.501,-3.749717514124278
+New York Knicks,Maurice Ndour,PF,,,,133,0.459,-5.485365853658543
+New York Knicks,Marshall Plumlee,C,7-0,250,24,47,0.533,2.705882352941174
+Oklahoma City Thunder,Russell Westbrook,PG,6-3,200,28,90,0.476,-4.143649885583386
+Oklahoma City Thunder,Victor Oladipo,SG,6-4,210,24,8,0.51,-0.4437956204378466
+Oklahoma City Thunder,Andre Roberson,SF,6-7,210,25,25,0.513,-0.893993993994016
+Oklahoma City Thunder,Ersan Ilyasova,PF,6-10,235,29,27,0.511,-0.7151515151515113
+Oklahoma City Thunder,Steven Adams,C,7-0,255,23,44,0.571,5.011860465116271
+Oklahoma City Thunder,Cameron Payne,PG,6-3,185,22,11,0.402,-11.641726618705029
+Oklahoma City Thunder,Alex Abrines,SG,6-6,190,23,8,0.519,0.7426900584795249
+Oklahoma City Thunder,Kyle Singler,SF,6-8,228,28,7,0.452,-5.564814814814831
+Oklahoma City Thunder,Domantas Sabonis,PF,6-10,252,20,5,0.452,-6.651633986928125
+Oklahoma City Thunder,Enes Kanter,C,6-11,245,24,27,0.549,3.2760465116278823
+Oklahoma City Thunder,Semaj Christon,PG,,,,2,0.372,-13.379024390243906
+Oklahoma City Thunder,Anthony Morrow,SG,,,,17,0.47,-3.7786516853932426
+Oklahoma City Thunder,Josh Huestis,SF,6-7,230,25,3,0.636,nan
+Oklahoma City Thunder,Joffrey Lauvergne,PF,6-11,260,25,4,0.49,-1.801345291479855
+Oklahoma City Thunder,Nick Collison,C,6-10,255,36,91,0.609,9.623809523809527
+Orlando Magic,Elfrid Payton,PG,6-4,185,22,154,0.493,-2.8642857142856357
+Orlando Magic,Evan Fournier,SG,6-7,205,24,4,0.508,-0.8378906250000142
+Orlando Magic,Aaron Gordon,SF,6-9,220,21,29,0.499,-1.7712244897959053
+Orlando Magic,Serge Ibaka,PF,6-10,235,27,103,0.543,3.3308128544423354
+Orlando Magic,Nikola Vucevic,C,7-0,260,26,1,0.48,-3.3225185185184714
+Orlando Magic,CJ Watson,PG,,,,48,0.452,-7.541847826086951
+Orlando Magic,Jodie Meeks,SG,6-4,210,29,20,0.512,0.6311999999999998
+Orlando Magic,Jeff Green,SF,6-9,235,30,41,0.442,-7.883475783475831
+Orlando Magic,Damjan Rudez,PF,,,,0,0.466,-3.29999999999999
+Orlando Magic,Bismack Biyombo,C,6-9,255,24,23,0.528,1.2182352941175907
+Orlando Magic,DJ Augustin,PG,,,,28,0.469,-5.255717761557179
+Orlando Magic,CJ Wilcox,SG,6-5,195,26,2,0.306,-23.17333333333333
+Orlando Magic,Mario Hezonja,SF,6-8,218,21,99,0.42,-10.84153005464487
+Orlando Magic,Stephen Zimmerman,C,,,,75,0.323,-19.82352941176471
+Orlando Magic,Arinze Onuaku,C,,,,1,0.5,nan
+Philadelphia 76ers,Jerryd Bayless,PG,6-3,200,28,29,0.375,-11.770588235294134
+Philadelphia 76ers,Gerald Henderson,SG,,,,15,0.478,-3.3354632587859854
+Philadelphia 76ers,Robert Covington,SF,6-9,225,26,4,0.492,-3.308428246013655
+Philadelphia 76ers,Dario Saric,PF,6-10,223,22,4,0.468,-4.922258592471394
+Philadelphia 76ers,Joel Embiid,C,7-0,250,22,2,0.508,-0.8028776978417227
+Philadelphia 76ers,Sergio Rodriguez,PG,,,,5,0.478,-2.9652272727272617
+Philadelphia 76ers,Hollis Thompson,SG,,,,27,0.465,-4.87444444444445
+Philadelphia 76ers,Jerami Grant,SF,6-9,220,22,8,0.529,2.0517412935323236
+Philadelphia 76ers,Richaun Holmes,PF,6-10,235,23,2,0.591,4.963380281690128
+Philadelphia 76ers,Nerlens Noel,C,6-11,220,22,20,0.595,8.795930232558149
+Philadelphia 76ers,TJ McConnell,PG,,,,4,0.472,-5.276831345826217
+Philadelphia 76ers,Nik Stauskas,SG,6-6,205,23,0,0.5,-3.219241192411907
+Philadelphia 76ers,Timothe Luwawu-Cabarrot,SF,6-6,200,21,0,0.471,-4.894247787610659
+Philadelphia 76ers,Ben Simmons,PF,6-10,230,20,4,0.0,nan
+Philadelphia 76ers,Jahlil Okafor,C,6-11,260,21,7,0.514,-0.08585526315793857
+Philadelphia 76ers,Shawn Long,PF,6-9,248,24,88,0.592,4.559183673469384
+Phoenix Suns,Eric Bledsoe,PG,6-1,205,27,21,0.485,-2.8558389261744423
+Phoenix Suns,Devin Booker,SG,6-6,210,20,64,0.475,-3.9351385390427325
+Phoenix Suns,TJ Warren,SF,6-8,215,23,18,0.511,-0.8749287749288186
+Phoenix Suns,Jared Dudley,PF,6-7,240,31,29,0.565,5.311787072243341
+Phoenix Suns,Tyson Chandler,C,7-1,240,34,75,0.671,15.327272727272707
+Phoenix Suns,Brandon Knight,PG,6-3,195,25,15,0.441,-7.495562130177525
+Phoenix Suns,Leandro Barbosa,SG,,,,119,0.483,-4.441148325358888
+Phoenix Suns,PJ Tucker,SF,6-6,245,31,13,0.485,-2.405292479108674
+Phoenix Suns,Marquese Chriss,PF,6-10,240,19,0,0.506,-0.4116477272727721
+Phoenix Suns,Alex Len,C,7-1,250,23,9,0.5,-2.7120967741935402
+Phoenix Suns,Tyler Ulis,PG,5-10,160,21,17,0.445,-6.671739130434823
+Phoenix Suns,John Jenkins,SG,,,,8,0.5,nan
+Phoenix Suns,Derrick Jones,SF,,,,44,0.574,4.589361702127668
+Phoenix Suns,Dragan Bender,PF,7-1,225,19,34,0.441,-8.163157894736841
+Phoenix Suns,Alan Williams,PF,6-8,265,24,99,0.517,1.1433526011560886
+Phoenix Suns,Archie Goodwin,SG,6-5,189,22,71,0.583,7.6516129032257965
+Portland Trail Blazers,Damian Lillard,PG,6-3,195,26,35,0.516,1.189316987740952
+Portland Trail Blazers,CJ McCollum,SG,6-3,190,25,30,0.544,3.7262749445677485
+Portland Trail Blazers,Evan Turner,SF,6-7,220,28,47,0.454,-3.9853249475891133
+Portland Trail Blazers,Al-Farouq Aminu,PF,6-9,220,26,24,0.468,-3.6570680628272427
+Portland Trail Blazers,Mason Plumlee,C,6-11,255,26,27,0.536,2.5971235194585844
+Portland Trail Blazers,Shabazz Napier,PG,6-1,175,25,6,0.492,-0.832352941176481
+Portland Trail Blazers,Allen Crabbe,SG,6-6,215,24,17,0.572,6.112643678160879
+Portland Trail Blazers,Maurice Harkless,SF,6-9,220,23,17,0.558,5.484984025559051
+Portland Trail Blazers,Ed Davis,PF,6-10,245,27,30,0.528,3.561206896551738
+Portland Trail Blazers,Festus Ezeli,C,,,,55,nan,nan
+Portland Trail Blazers,Pat Connaughton,SG,6-5,210,24,13,0.632,13.544642857142861
+Portland Trail Blazers,Jake Layman,SF,6-9,210,22,3,0.365,-12.835897435897436
+Portland Trail Blazers,Noah Vonleh,PF,6-9,245,21,10,0.494,-0.1119850187265925
+Portland Trail Blazers,Meyers Leonard,C,7-1,255,24,14,0.484,-1.5013392857143018
+Portland Trail Blazers,Tim Quarterman,SG,,,,2,0.534,6.545000000000002
+Sacramento Kings,Darren Collison,PG,6-2,185,29,32,0.527,1.1317948717948525
+Sacramento Kings,Arron Afflalo,SG,6-5,210,31,35,0.514,-0.9903381642512059
+Sacramento Kings,Rudy Gay,SF,6-8,230,30,11,0.502,-1.410294117647119
+Sacramento Kings,DeMarcus Cousins,PF,6-11,270,26,0,0.498,-2.193285859613326
+Sacramento Kings,Willie Cauley-Stein,C,7-0,240,23,16,0.53,0.7188925081432984
+Sacramento Kings,Garrett Temple,PG,6-6,195,30,20,0.519,-1.750179211469593
+Sacramento Kings,Ben McLemore,SG,6-5,195,23,29,0.507,-0.5575630252101078
+Sacramento Kings,Matt Barnes,SF,,,,95,0.483,-4.868062827225138
+Sacramento Kings,Anthony Tolliver,PF,6-8,240,31,13,0.57,4.779835390946417
+Sacramento Kings,Kosta Koufos,C,7-0,265,27,37,0.551,1.3877118644067465
+Sacramento Kings,Ty Lawson,PG,,,,34,0.487,-3.3108614232209277
+Sacramento Kings,Malachi Richardson,SG,6-6,205,21,37,0.471,-6.402272727272738
+Sacramento Kings,Omri Casspi,SF,6-9,225,28,0,0.515,-0.13410852713179366
+Sacramento Kings,Skal Labissiere,PF,6-11,225,20,0,0.544,-1.0486725663716854
+Sacramento Kings,Georgios Papagiannis,C,7-1,240,19,0,0.549,1.9131578947368482
+San Antonio Spurs,Tony Parker,PG,6-2,185,34,225,0.486,-1.6648044692736974
+San Antonio Spurs,Danny Green,SG,6-6,215,29,99,0.523,1.7652631578947293
+San Antonio Spurs,Kawhi Leonard,SF,6-7,230,25,87,0.541,4.243366778149458
+San Antonio Spurs,LaMarcus Aldridge,PF,6-11,260,31,64,0.488,-1.7531531531531712
+San Antonio Spurs,Pau Gasol,C,7-0,250,36,135,0.548,4.15669724770644
+San Antonio Spurs,Patty Mills,PG,6-0,185,28,82,0.558,3.943487394957934
+San Antonio Spurs,Manu Ginobili,SG,6-6,205,39,217,0.491,-2.4667613636363797
+San Antonio Spurs,Kyle Anderson,SF,6-9,230,23,29,0.481,-1.7912371134020972
+San Antonio Spurs,David Lee,PF,6-9,245,33,43,0.59,7.723460410557166
+San Antonio Spurs,Dewayne Dedmon,C,7-0,245,27,12,0.622,10.760792951541802
+San Antonio Spurs,Dejounte Murray,PG,6-5,170,20,15,0.47,-2.501948051948048
+San Antonio Spurs,Jonathon Simmons,SG,6-6,195,27,18,0.456,-5.091884816753911
+San Antonio Spurs,Davis Bertans,PF,6-10,210,24,17,0.588,9.627941176470571
+San Antonio Spurs,Nicolas Laprovittola,PG,,,,39,0.532,4.4194444444444585
+San Antonio Spurs,Bryn Forbes,SG,6-3,190,23,9,0.449,-7.02000000000001
+Toronto Raptors,Kyle Lowry,PG,6-0,205,30,56,0.569,5.543915929203621
+Toronto Raptors,DeMar DeRozan,SG,6-7,220,27,45,0.477,-3.0907017543858544
+Toronto Raptors,DeMarre Carroll,SF,6-8,215,30,57,0.499,-1.605519480519476
+Toronto Raptors,Jared Sullinger,PF,,,,10,0.351,-17.603030303030287
+Toronto Raptors,Jonas Valanciunas,C,7-0,255,24,37,0.558,3.8172344689378903
+Toronto Raptors,Cory Joseph,PG,6-3,190,25,74,0.489,-2.105391304347812
+Toronto Raptors,Norman Powell,SG,6-4,215,23,30,0.504,-0.32358208955226786
+Toronto Raptors,Terrence Ross,SF,6-7,206,26,31,0.532,2.5549707602338856
+Toronto Raptors,Patrick Patterson,PF,6-9,230,27,44,0.523,0.6912133891213443
+Toronto Raptors,Jakob Poeltl,C,7-0,230,21,10,0.583,6.055128205128206
+Toronto Raptors,Delon Wright,PG,6-5,190,24,22,0.466,-3.667479674796752
+Toronto Raptors,Bruno Caboclo,SF,6-9,205,21,1,0.438,nan
+Toronto Raptors,Pascal Siakam,PF,6-9,230,22,6,0.505,-1.0931297709923555
+Toronto Raptors,Lucas Nogueira,C,7-0,220,24,11,0.67,18.353278688524583
+Toronto Raptors,Fred VanVleet,PG,6-0,195,22,8,0.401,-10.37532467532467
+Utah Jazz,George Hill,PG,6-3,188,30,86,0.554,4.562450592885348
+Utah Jazz,Rodney Hood,SG,6-8,206,24,14,0.494,-0.42316784869978363
+Utah Jazz,Gordon Hayward,SF,6-8,226,26,15,0.536,3.1070680628272385
+Utah Jazz,Derrick Favors,PF,6-10,265,25,18,0.49,-1.1297491039426717
+Utah Jazz,Rudy Gobert,C,7-1,245,24,12,0.661,15.292503987240906
+Utah Jazz,Dante Exum,PG,6-6,190,21,10,0.488,-1.7173611111111384
+Utah Jazz,Alec Burks,SG,6-6,214,25,6,0.45,-4.84635761589405
+Utah Jazz,Joe Johnson,SF,6-7,240,35,114,0.521,1.8599542334095531
+Utah Jazz,Trey Lyles,PF,6-10,234,21,2,0.436,-8.300694444444495
+Utah Jazz,Jeff Withey,C,,,,3,0.534,2.9469879518072304
+Utah Jazz,Shelvin Mack,PG,6-3,203,26,30,0.495,-1.0958208955224151
+Utah Jazz,Joe Ingles,SF,6-8,226,29,14,0.589,7.428850855745708
+Utah Jazz,Boris Diaw,PF,,,,119,0.477,-2.600000000000037
+Utah Jazz,Raul Neto,PG,6-1,179,24,11,0.505,0.7392857142857281
+Utah Jazz,Joel Bolomboy,PF,,,,2,0.594,10.158333333333331
+Washington Wizards,John Wall,PG,6-4,210,26,35,0.482,-3.328551336146127
+Washington Wizards,Bradley Beal,SG,6-5,207,23,38,0.566,5.0384146341464415
+Washington Wizards,Otto Porter,SF,,,,30,0.608,9.91148936170206
+Washington Wizards,Markieff Morris,PF,6-10,245,27,17,0.497,-1.2084628670119955
+Washington Wizards,Marcin Gortat,C,6-11,240,32,84,0.579,5.800747663551455
+Washington Wizards,Trey Burke,PG,6-1,191,24,3,0.516,0.2808510638297861
+Washington Wizards,Tomas Satoransky,SG,6-7,210,25,14,0.446,-6.368503937007873
+Washington Wizards,Kelly Oubre,SF,,,,16,0.482,-2.8254032258064754
+Washington Wizards,Andrew Nicholson,PF,,,,72,0.41,-11.458208955223881
+Washington Wizards,Ian Mahinmi,C,6-11,262,30,65,0.586,7.4965517241379445
+Washington Wizards,Sheldon McClellan,PG,,,,7,0.447,-4.2607843137254875
+Washington Wizards,Marcus Thornton,SG,,,,10,0.467,-2.857017543859669
+Washington Wizards,Jason Smith,C,7-0,240,30,26,0.585,7.141176470588192
+Washington Wizards,Danuel House,SG,6-7,220,23,66,0.0,nan
+Washington Wizards,Daniel Ochefu,C,,,,4,0.444,nan
